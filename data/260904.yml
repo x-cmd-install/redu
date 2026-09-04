@@ -1,0 +1,56 @@
+about:
+  description: ncdu for your restic repository
+  license: MIT
+  homepage: https://github.com/drdo/redu
+  head: 36c2273
+  archived: false
+  latestVersion: v0.2.15
+  collectedAt: 2026-09-04T04:41:49Z
+timeline:
+  created: 2024-03-10
+  lastCommit: 2026-09-03
+  lastRelease: 2026-01-27
+popularity:
+  star: 152
+  watcher: 1
+  fork: 9
+  release: 20
+  contributor: 6
+  pullRequest: 3
+  issue: 38
+language:
+  Rust: 91057
+totalLine: 91057
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 6
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 2
+    commit: 6
+  last360d:
+    since: 2025-09-09
+    release: 1
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 16

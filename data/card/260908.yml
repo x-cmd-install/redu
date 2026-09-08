@@ -1,0 +1,118 @@
+about:
+  description: "ncdu for your restic repository"
+  license: MIT
+  homepage: https://github.com/drdo/redu
+  head: 36c2273
+  archived: false
+  latestVersion: "v0.2.15"
+  collectedAt: 2026-09-08T03:10:25Z
+timeline:
+  created: 2024-03-10
+  lastCommit: 2026-09-03
+  lastRelease: 2026-01-27
+popularity:
+  star: 152
+  watcher: 1
+  fork: 9
+  release: 20
+  contributor: 6
+  pullRequest: 80
+  issue: 38
+language:
+  Rust: 91057
+totalBytes: 91057
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 5
+  last60d:
+    since: 2026-07-10
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-06-10
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 6
+  last180d:
+    since: 2026-03-12
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 1
+    openIssue: 2
+    commit: 6
+  last360d:
+    since: 2025-09-13
+    release: 1
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 1
+    openIssue: 3
+    commit: 14
+  last720d:
+    since: 2024-09-18
+    release: 5
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 8
+    openIssue: 9
+    commit: 59
+total:
+  release: 20
+  mergedPR: 77
+  openPR: 1
+  closedIssue: 27
+  openIssue: 11
+  commit: 453
+---
+path: /home/runner/.x-repo/github.com/drdo/redu
+collectedAt: 2026-09-08T03:10:26Z
+loc:
+  Rust:
+    code: 3323
+    comments: 53
+    blanks: 327
+    files: 11
+  Sql:
+    code: 111
+    comments: 6
+    blanks: 14
+    files: 3
+  Toml:
+    code: 55
+    comments: 0
+    blanks: 8
+    files: 3
+  Markdown:
+    code: 0
+    comments: 114
+    blanks: 39
+    files: 1
+total:
+  code: 3489
+  comments: 239
+  blanks: 396
+  files: 18
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	redu-0.2.15-darwin-arm64.bz2	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-darwin-arm64.bz2	1635353	140
+darwin/amd64	redu-0.2.15-darwin-x86_64.bz2	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-darwin-x86_64.bz2	1693906	40
+linux/arm64	redu-0.2.15-linux-arm64.bz2	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-linux-arm64.bz2	1832131	140
+linux/amd64	redu-0.2.15-linux-x86_64.bz2	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-linux-x86_64.bz2	1944442	40
+win/arm64	redu-0.2.15-windows-arm64.zip	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-windows-arm64.zip	1490747	45
+win/amd64	redu-0.2.15-windows-x86_64.zip	https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-windows-x86_64.zip	1683414	45

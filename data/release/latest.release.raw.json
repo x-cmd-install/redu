@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1635353,
       "digest": "sha256:cb2042e8ddd6ea31034da3865ae688ad1b52a274b1ed587e62fd2a37d15b835d",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-01-27T10:36:12Z",
       "updated_at": "2026-01-27T10:36:12Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-darwin-arm64.bz2"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1693906,
       "digest": "sha256:9cda977fae9f28fcc5dd8ce384b7a5f6a73cad2a38a378b76fb900d14127f998",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-12T09:58:09Z",
       "updated_at": "2026-08-12T09:58:11Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-darwin-x86_64.bz2"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1832131,
       "digest": "sha256:a2f39bde71256c47171fdf2fd8ba01eff891698fb8579d05cc9d3443ce3c5a11",
-      "download_count": 29,
+      "download_count": 32,
       "created_at": "2026-01-27T10:37:44Z",
       "updated_at": "2026-01-27T10:37:45Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-linux-arm64.bz2"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1944442,
       "digest": "sha256:82500ad282f35af08ce930bf6b2d310339ecb7f2926c81dceb16b3f32ac7d6c4",
-      "download_count": 157,
+      "download_count": 160,
       "created_at": "2026-01-27T10:38:49Z",
       "updated_at": "2026-01-27T10:38:49Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.15/redu-0.2.15-linux-x86_64.bz2"

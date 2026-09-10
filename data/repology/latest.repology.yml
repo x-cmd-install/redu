@@ -1,0 +1,84 @@
+- repo: aur
+  srcname: redu
+  binname: redu
+  visiblename: redu
+  version: 0.2.15
+  origversion: 0.2.15-1
+  status: newest
+  summary: ncdu for your restic repository
+  maintainers:
+    - qwjyh@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: redu-bin
+  binname: redu-bin
+  visiblename: redu-bin
+  version: 0.2.15
+  origversion: 0.2.15-1
+  status: newest
+  summary: ncdu for your restic repository
+  maintainers:
+    - haak@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: redu
+  visiblename: redu
+  version: 0.2.15
+  origversion: null
+  status: newest
+  summary: Ncdu for your restic repository
+- repo: homebrew
+  srcname: redu
+  visiblename: redu
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Ncdu for your restic repository
+- repo: nix_stable_25_05
+  srcname: redu
+  visiblename: redu
+  version: 0.2.13
+  origversion: null
+  status: outdated
+  summary: ncdu for your restic repo
+  maintainers:
+    - alexandre.fmp.esteves@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: redu
+  visiblename: redu
+  version: 0.2.14
+  origversion: null
+  status: outdated
+  summary: ncdu for your restic repo
+  maintainers:
+    - alexandre.fmp.esteves@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: redu
+  visiblename: redu
+  version: 0.2.15
+  origversion: null
+  status: newest
+  summary: ncdu for your restic repo
+  maintainers:
+    - alexfmpe@proton.me
+    - drdo@drdo.eu
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: redu
+  visiblename: redu
+  version: 0.2.15
+  origversion: null
+  status: newest
+  summary: ncdu for your restic repo
+  maintainers:
+    - alexfmpe@proton.me
+    - drdo@drdo.eu
+  licenses:
+    - MIT

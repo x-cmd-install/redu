@@ -32,7 +32,7 @@ Total: **3,489** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.15` (2026-01-27)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-09-11
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **3,489** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 77 · **Open PRs**: 1 · **Closed issues**: 27 · **Open issues**: 11 · **Commits**: 453
+- **Releases**: 20 · **Merged PRs**: 78 · **Open PRs**: 1 · **Closed issues**: 27 · **Open issues**: 11 · **Commits**: 455
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-13 | 0 | 2 | 0 | 1 | 0 | 6 |
-| 90d | 2026-06-13 | 0 | 2 | 0 | 1 | 0 | 6 |
-| last180d | 2026-03-15 | 0 | 2 | 0 | 1 | 2 | 6 |
-| 360d | 2025-09-16 | 1 | 9 | 0 | 1 | 3 | 14 |
-| last720d | 2024-09-21 | 5 | 22 | 1 | 8 | 9 | 59 |
+| 30d | 2026-08-13 | 0 | 2 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-14 | 0 | 3 | 0 | 1 | 0 | 7 |
+| 90d | 2026-06-14 | 0 | 3 | 0 | 1 | 0 | 7 |
+| last180d | 2026-03-16 | 0 | 3 | 0 | 1 | 2 | 7 |
+| 360d | 2025-09-17 | 1 | 10 | 0 | 1 | 3 | 15 |
+| last720d | 2024-09-22 | 5 | 23 | 1 | 8 | 9 | 61 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for redu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:50:29Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:56:33Z._

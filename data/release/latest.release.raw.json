@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1613488,
       "digest": "sha256:a6b0fcf0e567cf9854c80d1a711ab611503fdb423c9294801828bfc931e5e504",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-19T08:44:18Z",
       "updated_at": "2026-10-19T08:44:19Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-darwin-arm64.bz2"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1709330,
       "digest": "sha256:7f8df0ff4893c5a6cfd7222fdeecc46a34db9a2023d351508183effa1cfa34d9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-19T08:45:06Z",
       "updated_at": "2026-10-19T08:45:06Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-darwin-x86_64.bz2"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1924202,
       "digest": "sha256:cff7b8ae0820f3764d8fd5c302bbb5effada516c7939e8773acd293a9ab4f1a4",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-19T08:45:56Z",
       "updated_at": "2026-10-19T08:45:56Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-linux-x86_64.bz2"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1562243,
       "digest": "sha256:abce3d27104688ef49d21b24c7c435e2a40ca79b8fb3f2b47bd62df31a063dc4",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-19T08:45:49Z",
       "updated_at": "2026-10-19T08:45:50Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1736585,
       "digest": "sha256:f3c8f55780e3ab1546fb270697dcfcfb65754d49f0b144c5dca2ad1cac41499c",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-19T08:47:05Z",
       "updated_at": "2026-10-19T08:47:06Z",
       "browser_download_url": "https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-x86_64.zip"

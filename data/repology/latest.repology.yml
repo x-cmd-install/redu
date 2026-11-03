@@ -73,9 +73,9 @@
 - repo: nix_unstable
   srcname: redu
   visiblename: redu
-  version: 0.2.15
+  version: 0.2.16
   origversion: null
-  status: outdated
+  status: newest
   summary: ncdu for your restic repo
   maintainers:
     - alexfmpe@proton.me

@@ -37,7 +37,7 @@ Total: **3,489** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 161 · **Forks**: 9 · **Open issues**: 38 · **Contributors**: 6
+- **Stars**: 162 · **Forks**: 9 · **Open issues**: 38 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,489** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 1 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-19 | 1 | 3 | 0 | 0 | 0 | 8 |
-| last180d | 2026-05-21 | 1 | 4 | 0 | 1 | 0 | 9 |
-| 360d | 2025-11-22 | 2 | 10 | 0 | 1 | 2 | 15 |
-| last720d | 2024-11-27 | 6 | 24 | 1 | 8 | 8 | 64 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 1 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-21 | 1 | 3 | 0 | 0 | 0 | 8 |
+| last180d | 2026-05-23 | 1 | 4 | 0 | 1 | 0 | 9 |
+| 360d | 2025-11-24 | 2 | 10 | 0 | 1 | 2 | 15 |
+| last720d | 2024-11-29 | 6 | 24 | 1 | 8 | 8 | 64 |
 
 ## Release assets
 
@@ -65,6 +65,15 @@ Total: **3,489** lines of code across **18** files in the top 5 languages.
 | [redu-0.2.16-windows-arm64.zip](https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-arm64.zip) | 1.5 MiB | `native/win/arm64` |
 | [redu-0.2.16-windows-x86_64.zip](https://github.com/drdo/redu/releases/download/v0.2.16/redu-0.2.16-windows-x86_64.zip) | 1.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/redu). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.2.16` | ✅ latest |
+| Nix unstable | `0.2.16` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for redu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `redu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +83,4 @@ Install metadata for redu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:59:19Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:13:11Z._
